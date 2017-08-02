@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1429578481 source:c:\users\shamiul\desktop\codefights\336\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<queue>
+	<map>
+
